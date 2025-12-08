@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "Random Wheel",
+    "subtitle": "Add your options and let destiny decide!",
+    "footer": "Click on an option to edit it"
+  },
+  "wheel": {
+    "spin": "SPIN!",
+    "spinning": "Spinning...",
+    "minOptions": "Add at least 2 options to spin"
+  },
+  "options": {
+    "title": "Options",
+    "newPlaceholder": "New option...",
+    "shuffle": "Shuffle",
+    "total": "Total: {{count}} options",
+    "min": "Min: 2",
+    "defaultOption": "Option {{number}}"
+  },
+  "winner": {
+    "title": "Winner!",
+    "spinAgain": "Spin Again"
+  },
+  "language": {
+    "select": "Language",
+    "pt": "Português",
+    "en": "English",
+    "es": "Español"
+  }
+}

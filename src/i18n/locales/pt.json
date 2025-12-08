@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "Roleta Aleatória",
+    "subtitle": "Adicione suas opções e deixe o destino decidir!",
+    "footer": "Clique em uma opção para editá-la"
+  },
+  "wheel": {
+    "spin": "GIRAR!",
+    "spinning": "Girando...",
+    "minOptions": "Adicione pelo menos 2 opções para girar"
+  },
+  "options": {
+    "title": "Opções",
+    "newPlaceholder": "Nova opção...",
+    "shuffle": "Embaralhar",
+    "total": "Total: {{count}} opções",
+    "min": "Mín: 2",
+    "defaultOption": "Opção {{number}}"
+  },
+  "winner": {
+    "title": "Vencedor!",
+    "spinAgain": "Girar Novamente"
+  },
+  "language": {
+    "select": "Idioma",
+    "pt": "Português",
+    "en": "English",
+    "es": "Español"
+  }
+}

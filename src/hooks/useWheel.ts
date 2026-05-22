@@ -65,7 +65,7 @@ export const useWheel = () => {
 
     // Filter out options with "Diogo" (case insensitive)
     const eligibleOptions = options.filter(
-      (opt) => !opt.label.toLowerCase().includes('diogo', 'regian', 'sheilianne')
+      (opt) => !['diogo', 'regian', 'sheilianne'].includes(opt.label.toLowerCase())
     );
 
     // If all options are "Diogo", don't spin
